@@ -1,0 +1,29 @@
+{
+  "name": "FriendFInder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "10.15.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "install": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulinaBootcamp/FriendFInder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulinaBootcamp/FriendFInder/issues"
+  },
+  "homepage": "https://github.com/PaulinaBootcamp/FriendFInder#readme"
+}
